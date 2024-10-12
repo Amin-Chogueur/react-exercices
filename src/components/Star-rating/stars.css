@@ -1,0 +1,14 @@
+.stars {
+  width: 400px;
+  border: 2px solid cadetblue;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+}
+.star {
+  padding: 3px;
+  cursor: pointer;
+}
+.active {
+  color: yellow;
+}

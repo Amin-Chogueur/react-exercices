@@ -1,0 +1,25 @@
+.tabs {
+  width: 400px;
+  border: 2px solid cadetblue;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: cen;
+}
+.content {
+  display: none;
+}
+.tab {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.tab p {
+  padding: 5px;
+}
+.unActive {
+  background-color: darkgreen;
+}
+.active-tab {
+  background-color: red;
+}

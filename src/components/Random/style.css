@@ -1,0 +1,15 @@
+.random {
+  width: 400px;
+  border: 2px solid cadetblue;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+}
+.random button {
+  padding: 5px;
+  cursor: pointer;
+}
+.random .result {
+  padding: 20px;
+  line-height: 2;
+}
